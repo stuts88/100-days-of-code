@@ -14,3 +14,7 @@ Day 2: Worked on the Wikipedia project. Struggling with getting the Wikipedia AP
 Day 3: Finally got the Wikipedia API to work. Tomorrow will work on making the data look good.
 
 ### R1D4
+Day 4: Wikipedia project complete. So proud. Great learning on API documentation.
+https://codepen.io/stuts88/full/PKojxG/
+
+### R1D5
