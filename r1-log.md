@@ -18,3 +18,11 @@ Day 4: Wikipedia project complete. So proud. Great learning on API documentation
 https://codepen.io/stuts88/full/PKojxG/
 
 ### R1D5
+Day 5: Started working on the Twitch API Project. Got the API working in less than 20 minutes. Super relieved after the Wikipedia nightmare.
+
+### R1D6
+Day 6: Missed
+
+### R1D7
+Day 7: Completed the Twitch Project. Feels great :)
+https://codepen.io/stuts88/full/ypdRwL/
