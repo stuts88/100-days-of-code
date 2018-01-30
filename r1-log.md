@@ -26,3 +26,9 @@ Day 6: Missed
 ### R1D7
 Day 7: Completed the Twitch Project. Feels great :)
 https://codepen.io/stuts88/full/ypdRwL/
+
+### R1D8
+Day 8: Worked on Intermediate Algorithm problems on #freecodecamp today. Really enjoying the problem-solving challenges at midnight.
+
+### R1D9
+Day 9: Took a break from JS and revised some git and CSS grid code. Never thought I would miss git back from my coding days.
