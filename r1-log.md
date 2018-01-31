@@ -32,3 +32,6 @@ Day 8: Worked on Intermediate Algorithm problems on #freecodecamp today. Really 
 
 ### R1D9
 Day 9: Took a break from JS and revised some git and CSS grid code. Never thought I would miss git back from my coding days.
+
+### R1D10
+Day 10: Continued doing CSS grid exercises. Grids are so powerful and flexible. Can't wait to use grids in a website project soon.
