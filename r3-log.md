@@ -17,4 +17,4 @@ Learning - Template Driven Forms in Angular 6 through Udemy
 Skipped :(
 
 ### R3D2 - 14th Oct
-Completed Template Driven Forms Assignment in Angular 6 through Udemy. 
+Learning - Reactive Forms in Angular 6 through Udemy. 
